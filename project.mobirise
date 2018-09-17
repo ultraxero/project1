@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -178,7 +178,7 @@
           },
           "title": "SELAMAT DATANG KE SISTEM e-SPS&nbsp;<br>KOLEJ KOMUNITI AMPANG",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">VIDEO KOPERAT KK AMPANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">INFO KURSUS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">PENDAFTARAN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">ALAMAT DAN LOKASI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">BROCHURE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">VIDEO KORPERAT KK AMPANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">INFO KURSUS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">PENDAFTARAN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">ALAMAT DAN LOKASI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">BROCHURE</a>"
         }
       ]
     },
