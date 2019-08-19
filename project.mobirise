@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page15.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2276,7 +2276,7 @@
           },
           "title": "HRMIS 2.0",
           "text": ".",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MASUK</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://hrmis2.eghrmis.gov.my/HRMISNET/Common/Main/Login.aspx\" data-toolbar=\"-mbrBtnMove\">MASUK</a>"
         }
       ]
     }
