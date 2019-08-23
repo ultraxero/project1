@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page15.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -59,10 +59,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -104,7 +104,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">KOLEJ KOMUNTI &nbsp;AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\">VIDEO KOPOERAT &nbsp;KK AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">PROGRAM SEPENUH MASA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PROGRAM LATIHAN SEPANJANG HAYAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PENDAFTARAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">JADUAL WAKTU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\">TAKWIM KOLEJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">e-ADUAN &nbsp;KEROSAKAN ICT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\">e-ADUAN KEROSAKAN BANGUNAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">PENCERAPAN PENSYARAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">ALAMAT DAN LOKASI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">BROCHURE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page15.html\">HRMIS 2.0</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>KOLEJ KOMUNTI &nbsp;AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>VIDEO KOPERAT &nbsp;KK AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>PROGRAM SEPENUH MASA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>PROGRAM LATIHAN SEPANJANG HAYAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>PENDAFTARAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>JADUAL WAKTU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>TAKWIM KOLEJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>e-ADUAN &nbsp;KEROSAKAN ICT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>e-ADUAN KEROSAKAN BANGUNAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>e-PENCERAPAN PENSYARAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>ALAMAT DAN LOKASI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>BROCHURE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page15.html\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>HRMIS 2.0</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -168,17 +168,23 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "SELAMAT DATANG KE SISTEM SMART Q&nbsp;<br>KOLEJ KOMUNITI AMPANG",
+          "title": "SELAMAT DATANG KE SISTEM <br>SMART Q&nbsp;<br>KOLEJ KOMUNITI AMPANG",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">VIDEO KORPORAT KK AMPANG</a>     <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">ALAMAT DAN LOKASI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">BROCHURE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>VIDEO KORPORAT KK AMPANG</a>     <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>ALAMAT DAN LOKASI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>BROCHURE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1723,6 +1729,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "text-align": "right"
+            }
+          },
           "_anchor": "msg-box5-2a",
           "_params": {
             "imageSize": "70",
@@ -1769,13 +1781,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<b>Jadual Waktu Pensyarah &nbsp;Sesi Julai &nbsp;2019</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://drive.google.com/file/d/10963FAkUFt1irkazsKj6VzbMbW84dw6X/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://drive.google.com/file/d/10963FAkUFt1irkazsKj6VzbMbW84dw6X/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>"
         }
       ]
     },
@@ -2206,7 +2212,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">KOLEJ KOMUNTI &nbsp;AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\">VIDEO KOPOERAT &nbsp;KK AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">PROGRAM SEPENUH MASA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PROGRAM LATIHAN SEPANJANG HAYAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">PENDAFTARAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">JADUAL WAKTU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\">TAKWIM KOLEJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">e-ADUAN &nbsp;KEROSAKAN ICT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\">e-ADUAN KEROSAKAN BANGUNAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">PENCERAPAN PENSYARAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">ALAMAT DAN LOKASI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">BROCHURE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page15.html\">HRMIS 2.0</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>KOLEJ KOMUNTI &nbsp;AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>VIDEO KOPERAT &nbsp;KK AMPANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>PROGRAM SEPENUH MASA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>PROGRAM LATIHAN SEPANJANG HAYAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>PENDAFTARAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>JADUAL WAKTU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\">TAKWIM KOLEJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\">e-ADUAN &nbsp;KEROSAKAN ICT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\">e-ADUAN KEROSAKAN BANGUNAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">PENCERAPAN PENSYARAH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">ALAMAT DAN LOKASI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">BROCHURE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page15.html\">HRMIS 2.0</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
