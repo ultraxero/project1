@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page12.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -880,7 +880,7 @@
           "title1": "PENILAIAN &nbsp;PENSYARAH OLEH PELAJAR",
           "subtitle1": "",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/1AbU6dPCpmF4GR01aEb4Gzg6PM0ps4lzL5DGGwuQSm2M/prefill\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MASUK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScN8AuuHKE-UiUd_timTlXoTzDzBILYltASvPYGnSFMiG537w/viewform?usp=pp_url\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MASUK</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -892,7 +892,7 @@
           "title2": "PENCERAPAN PENSYARAH",
           "subtitle2": "",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/19W68NNHLGDrqPm6zxF7LeKlxkVEZytPRftbX4qnGrQA/prefill\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MASUK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdcyl6HgjUFyGNiAHOVNY1bP5jY3rNGQ9dW7SoGmCBR7ibdHA/viewform?usp=pp_url\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MASUK</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
