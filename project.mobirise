@@ -880,7 +880,7 @@
           "title1": "PENILAIAN &nbsp;PENSYARAH OLEH PELAJAR",
           "subtitle1": "",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScN8AuuHKE-UiUd_timTlXoTzDzBILYltASvPYGnSFMiG537w/viewform?usp=pp_url\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MASUK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://forms.gle/e9SZtxYCMyQCjB2a9\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MASUK</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
